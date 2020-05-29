@@ -1,0 +1,2 @@
+import rcon
+rcon.shell()
